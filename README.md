@@ -1,2 +1,2 @@
-# sublime
-Minimal dark theme for Sublime
+# Sublime Text
+Minimal dark theme for Sublime Text
